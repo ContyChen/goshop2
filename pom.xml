@@ -68,7 +68,7 @@
         <zkclient.version>0.1</zkclient.version>
         <mail.version>1.4.7</mail.version>
         <solr-solrj.version>5.3.0</solr-solrj.version>
-        <commons-beanutils.version>1.9.2</commons-beanutils.version>
+        <commons-beanutils.version>1.9.4</commons-beanutils.version>
         <fastdfs-client.version>1.25</fastdfs-client.version>
         <commons-pool2.version>2.3</commons-pool2.version>
         <antlr.version>2.7.6</antlr.version>
